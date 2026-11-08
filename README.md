@@ -9,5 +9,6 @@ Plain-English step-by-step guides for the problems users ask IT support about mo
 3. [Outlook is not sending emails](03-outlook-not-sending.md)
 4. [Wi-Fi keeps disconnecting](04-wifi-keeps-disconnecting.md)
 5. [No sound in Microsoft Teams](05-teams-no-sound.md)
+6. [Blue screen — first steps](06-blue-screen-first-steps.md)
 
 Written by Md. Mamun Or Rashid, IT Support Specialist — based on real support work since 2017.
