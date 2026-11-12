@@ -11,5 +11,6 @@ Plain-English step-by-step guides for the problems users ask IT support about mo
 5. [No sound in Microsoft Teams](05-teams-no-sound.md)
 6. [Blue screen — first steps](06-blue-screen-first-steps.md)
 7. [Printer shows "Offline"](07-printer-offline.md)
+8. [Shared drive will not open](08-shared-drive-not-opening.md)
 
 Written by Md. Mamun Or Rashid, IT Support Specialist — based on real support work since 2017.
