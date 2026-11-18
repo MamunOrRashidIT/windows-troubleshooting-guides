@@ -14,5 +14,6 @@ Plain-English step-by-step guides for the problems users ask IT support about mo
 8. [Shared drive will not open](08-shared-drive-not-opening.md)
 9. [Windows Update is stuck](09-windows-update-stuck.md)
 10. [Locked out of your account](10-locked-out-account.md)
+11. [USB device not recognized](11-usb-device-not-recognized.md)
 
 Written by Md. Mamun Or Rashid, IT Support Specialist — based on real support work since 2017.
